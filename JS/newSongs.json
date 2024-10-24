@@ -1,0 +1,118 @@
+{
+    "play_list":[
+        {
+            "id": 0,
+            "playlist_type": false,
+            "playlist": null,
+            "song_name": "Catch Me If You Can",
+            "album_name": "",
+            "singers": "",
+            "image_source": "assets/images/catch e ì you can.jpg",
+            "quality": {
+              "low": "assets/songs/y2mate.com - Quang Hùng MasterD  Catch Me If You Can ft Negav Nicky Công Dương  Official Audio.mp3",
+              "medium": "",
+              "high": ""
+            },
+            "release_date": "date"
+          },
+          {
+            "id": 1,
+            "playlist_type": false,
+            "playlist": null,
+            "song_name": "Walk",
+            "album_name": "",
+            "singers": "",
+            "image_source": "assets/images/walk.jpg",
+            "quality": {
+              "low": "assets/songs/y2mate.com - Lyrics WALK  HURRYKNG Negav HIEUTHUHAI Isaac Pháp Kiều  Anh Trai Say Hi.mp3",
+              "medium": "",
+              "high": ""
+            },
+            "release_date": "date"
+          },
+          {
+            "id": 2,
+            "playlist_type": false,
+            "playlist": null,
+            "song_name": "Trói Em Lại",
+            "album_name": "",
+            "singers": "Quang Hùng MasterD",
+            "image_source": "assets/images/trói e lại.jpg",
+            "quality": {
+              "low": "assets/songs/y2mate.com - MV LYRICS TRÓI EM LẠI  Quang Hùng MasterD  Anh Trai Say Hi.mp3",
+              "medium": "",
+              "high": ""
+            },
+            "release_date": "date"
+          },
+          {
+            "id": 3,
+            "playlist_type": false,
+            "playlist": null,
+            "song_name": "Ngáo Ngơ",
+            "album_name": "",
+            "singers": "HIEUTHUHAI, Atus, Jsol, Erik , Orange",
+            "image_source": "assets/images/Ngáo Ngơ.jpg",
+            "quality": {
+              "low": "assets/songs/y2mate.com - MV LYRICS NGÁO NGƠ  HIEUTHUHAI Atus Jsol Erik ft Orange  Anh Trai Say Hi.mp3",
+              "medium": "",
+              "high": ""
+            },
+            "release_date": "date"
+          },
+          {
+            "id": 4,
+            "playlist_type": false,
+            "playlist": null,
+            "song_name": "Giá Như",
+            "album_name": "",
+            "singers": "Soobin Hoàng Sơn",
+            "image_source": "assets/images/giá như.jpg",
+            "quality": {
+              "low": "assets/songs/y2mate.com - giá như  SOOBIN Hoàng Sơn  LYRICS VIDEO.mp3"
+            },
+            "release_date": "date"
+          },
+          {
+            "id": 5,
+            "playlist_type": false,
+            "playlist": null,
+            "song_name": "THE PLAYAH",
+            "album_name": "",
+            "singers": "Soobin Hoàng Sơn",
+            "image_source": "assets/images/The playah.jpg",
+            "quality": {
+              "low": "assets/songs/y2mate.com - THÁNG NĂM  THE PLAYAH  SOOBIN x SLIMV  NEW VERSION  MV LYRICS.mp3"
+            },
+            "release_date": "date"
+          },
+          {
+            "id": 6,
+            "playlist_type": false,
+            "playlist": null,
+            "song_name": "Thị Mầu",
+            "album_name": "",
+            "singers": "Hòa Minzy",
+            "image_source": "assets/images/Thị mầu.jpg",
+            "quality": {
+              "low": "assets/songs/y2mate.com - Thị Mầu  Hòa Minzy x Masew Lyrics Video.mp3"
+            },
+            "release_date": "date"
+          },
+          {
+            "id": 7,
+            "playlist_type": false,
+            "playlist": null,
+            "song_name": "Tràn Bộ Nhớ",
+            "album_name": "",
+            "singers": "Dương DOMI",
+            "image_source": "assets/images/Tràn bộ nhớ.jpg",
+            "quality": {
+              "low": "assets/songs/y2mate.com - Tràn Bộ Nhớ  Dương Domic  Lyrics Video.mp3",
+              "medium": "",
+              "high": ""
+            },
+            "release_date": "date"
+          }
+    ]
+}

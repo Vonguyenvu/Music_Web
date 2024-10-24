@@ -1,0 +1,363 @@
+{
+    "account":[{
+        "Name": "TranNhaNhot",
+        "Password": "1234567890",
+        "play_list":[
+            {
+                "id": 0,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Hello",
+                "album_name": "",
+                "singers": "Adele",
+                "image_source": "assets/images/hello.jpg",
+                "duration": "2",
+                "quality": {
+                  "low": "assets/songs/y2mate.com - Adele  Hello Lyrics.mp3"
+                },
+                "release_date": "date"
+              },
+              {
+                "id": 1,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Send My Love ",
+                "album_name": "",
+                "singers": "",
+                "image_source": "assets/images/send my love.jpg",
+                "quality": {
+                  "low": "assets/songs/y2mate.com - Adele  Send My Love To Your New Lover.mp3"
+                },
+                "release_date": "date"
+              },
+              {
+                "id": 2,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Set Fire To The Rain",
+                "album_name": "",
+                "singers": "",
+                "image_source": "assets/images/set fire to the rain.jpg",
+                "quality": {
+                  "low": "assets/songs/y2mate.com - Adele  Set Fire To The Rain Live at The Royal Albert Hall.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 3,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Chúng Ta Của Hiện Tại",
+                "album_name": "",
+                "singers": "Sơn Tùng M-TP",
+                "image_source": "assets/images/chúng ta của hiện tại.jpg",
+                "quality": {
+                  "low": "assets/songs/ChungTaCuaHienTai-SonTungMTP-6892340.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+              },
+              {
+                "id": 4,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Em Của Ngày Hôm Qua",
+                "album_name": "",
+                "singers": "Sơn Tùng M-TP",
+                "image_source": "assets/images/Em_của_ngày_hôm_qua.png",
+                "quality": {
+                  "low": "assets/songs/EmCuaNgayHomQua-SonTungMTP-2882720.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 0,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Thiên Lý Ơi",
+                "album_name": "",
+                "singers": "Jack",
+                "image_source": "assets/images/thiên lý ơi.jpg",
+                "quality": {
+                  "low": "assets/songs/ThienLyOi.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+              },
+              {
+                "id": 1,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Hồng Nhan",
+                "album_name": "",
+                "singers": "Jack",
+                "image_source": "assets/images/hồng nhan.jpg",
+                "quality": {
+                  "low": "assets/songs/hồng nhan.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            }
+        ]
+    },
+    {
+        "Name": "voNguyenVu",
+        "Password": "3636363636",
+        "play_list":[
+            {
+                "id": 0,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Attention",
+                "album_name": "",
+                "singers": "Charlie Puth",
+                "image_source": "assets/images/attention.jpg",
+                "quality": {
+                  "low": "assets/songs/y2mate.com - Charlie Puth  Attention Lyrics.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 1,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "We Dont Talk Anymore",
+                "album_name": "",
+                "singers": "Charlie Puth",
+                "image_source": "assets/images/We dont talk anymore.jpg",
+                "quality": {
+                  "low": "assets/songs/y2mate.com - Charlie Puth  We Dont Talk Anymore feat Selena Gomez Official Video.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 2,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Tears On My Piano",
+                "album_name": "Charlie Puth",
+                "singers": "Charlie Puth",
+                "image_source": "assets/images/tears on my piano.jpg",
+                "quality": {
+                  "low": "assets/songs/y2mate.com - Charlie Puth  Tears On My Piano Official Audio.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 3,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Từ Chối Hiểu",
+                "album_name": "",
+                "singers": "Rhyder",
+                "image_source": "assets/images/từ chối hiểu.jpg",
+                "duration": "2",
+                "quality": {
+                  "low": "assets/songs/y2mate.com - Từ Chối Hiểu  Rhyder  Team Andree Right Hand   Rap Việt 2023 MV Lyrics.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 4,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Để Anh Một Mình",
+                "album_name": "",
+                "singers": "Rhyder",
+                "image_source": "assets/images/để anh một mình.jpg",
+                "duration": "2",
+                "quality": {
+                  "low": "assets/songs/y2mate.com - Để Anh Một Mình  Rhyder  Team Andree  Rap Việt Mùa 3 2023 MV Lyrics.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 5,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Da Money Team",
+                "album_name": "",
+                "singers": "Rhyder",
+                "image_source": "assets/images/da money team.jpg",
+                "duration": "2",
+                "quality": {
+                  "low": "assets/songs/y2mate.com - Da Money Team Ánh Đèn Sân Khấu 2  Andree x Rhyder  Rap Việt 2023 MV Lyrics.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 6,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Người Tình Không Đến",
+                "album_name": "",
+                "singers": "Ngọc Sơn",
+                "image_source": "assets/images/người tình ko đến.jpg",
+                "quality": {
+                  "low": "assets/songs/y2mate.com - NGƯỜI TÌNH KHÔNG ĐẾN NTKD  NGỌC SƠN.mp3"
+                  
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 7,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Chào Em Cô Gái Lam Hồng",
+                "album_name": "",
+                "singers": "Ngọc Sơn",
+                "image_source": "assets/images/chào e cô gái lam hồng.jpg",
+                "quality": {
+                  "low": "assets/songs/y2mate.com - CHÀO EM CÔ GÁI LAM HỒNG  NGỌC SƠN  Nhạc Đỏ Trữ Tình Hay Nhất 2020.mp3"
+                },
+                "release_date": "date"
+            }
+        ]
+    },
+    {
+        "Name": "TranLaLuot",
+        "Password": "11111111",
+        "play_list":[
+            {
+                "id": 0,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Đóa Hồng Chơi Vơi",
+                "album_name": "",
+                "singers": "Anh Tú",
+                "image_source": "assets/images/đóa hồng chơi vơi.jpg",
+                "quality": {
+                  "low": "assets/songs/y2mate.com - MV LYRICS ĐOÁ HỒNG CHƠI VƠI  Anh Tú  Anh Trai Say Hi.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 1,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Catch Me If You Can",
+                "album_name": "",
+                "singers": "",
+                "image_source": "assets/images/catch e ì you can.jpg",
+                "quality": {
+                  "low": "assets/songs/y2mate.com - Quang Hùng MasterD  Catch Me If You Can ft Negav Nicky Công Dương  Official Audio.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 2,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Tràn Bộ Nhớ",
+                "album_name": "",
+                "singers": "Dương DOMI",
+                "image_source": "assets/images/Tràn bộ nhớ.jpg",
+                "quality": {
+                  "low": "assets/songs/y2mate.com - Tràn Bộ Nhớ  Dương Domic  Lyrics Video.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 3,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Ngáo Ngơ",
+                "album_name": "",
+                "singers": "HIEUTHUHAI, Atus, Jsol, Erik , Orange",
+                "image_source": "assets/images/Ngáo Ngơ.jpg",
+                "quality": {
+                  "low": "assets/songs/y2mate.com - MV LYRICS NGÁO NGƠ  HIEUTHUHAI Atus Jsol Erik ft Orange  Anh Trai Say Hi.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 4,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Ngạo Nghễ",
+                "album_name": "",
+                "singers": "Rhyder, HURRYKNG, Isaac, Atus",
+                "image_source": "assets/images/Ngạo Nghễ.jpg",
+                "quality": {
+                  "low": "assets/songs/Untitled video - Made with Clipchamp.mp4",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 5,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Không Phải Dạng Vừa Đâu",
+                "album_name": "",
+                "singers": "Sơn Tùng M-TP",
+                "image_source": "assets/images/ko phải dạng vừa đâu.jpg",
+                "quality": {
+                  "low": "assets/songs/KhongPhaiDangVuaDau-SonTungMTP-3753840.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 6,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Lạc Trôi",
+                "album_name": "",
+                "singers": "Sơn Tùng M-TP",
+                "image_source": "assets/images/Lac_troi_single_sontungmtp.jpg",
+                "quality": {
+                  "low": "assets/songs/LacTroi-SonTungMTP-4725907.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            },
+            {
+                "id": 7,
+                "playlist_type": false,
+                "playlist": null,
+                "song_name": "Một Năm Mới Bình An",
+                "album_name": "",
+                "singers": "Sơn Tùng M-TP",
+                "image_source": "assets/images/một năm mới bình an.jpg",
+                "quality": {
+                  "low": "assets/songs/MotNamMoiBinhAn-SonTungMTP-4315569.mp3",
+                  "medium": "",
+                  "high": ""
+                },
+                "release_date": "date"
+            }
+        ]
+    }
+]
+}

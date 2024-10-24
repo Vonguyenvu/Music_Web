@@ -1,0 +1,103 @@
+{
+    "play_list":[
+        {
+            "id": 0,
+            "playlist_type": false,
+            "playlist": null,
+            "song_name": "Đắp Mộ Cuộc Tình ",
+            "album_name": "",
+            "singers": "Lê Sang",
+            "image_source": "assets/images/đắp mộ cuộc tình.jpg",
+            "quality": {
+              "low": "assets/songs/y2mate.com - Đắp Mộ Cuộc Tình  Lê Sang MV Full HD.mp3",
+              "medium": "",
+              "high": ""
+            },
+            "release_date": "date"
+          },
+          {
+            "id": 1,
+            "playlist_type": false,
+            "playlist": null,
+            "song_name": "Tình Khúc Ngọc Sơn",
+            "album_name": "",
+            "singers": "Lê Sang",
+            "image_source": "assets/images/tình khúc ngọc sơn.jpg",
+            "quality": {
+              "low": "assets/songs/y2mate.com - TAN CHẢY CON TIM KHI NGHE  Tình Khúc Ngọc Sơn  Tiếng Hát Lê Sang  OFFICIAL MV 4K.mp3",
+              "medium": "",
+              "high": ""
+            },
+            "release_date": "date"
+          },
+          {
+            "id": 0,
+            "playlist_type": false,
+            "playlist": null,
+            "song_name": "Người Tình Không Đến",
+            "album_name": "",
+            "singers": "Ngọc Sơn",
+            "image_source": "assets/images/người tình ko đến.jpg",
+            "quality": {
+              "low": "assets/songs/y2mate.com - NGƯỜI TÌNH KHÔNG ĐẾN NTKD  NGỌC SƠN.mp3"
+              
+            },
+            "release_date": "date"
+          },
+          {
+            "id": 1,
+            "playlist_type": false,
+            "playlist": null,
+            "song_name": "Chào Em Cô Gái Lam Hồng",
+            "album_name": "",
+            "singers": "Ngọc Sơn",
+            "image_source": "assets/images/chào e cô gái lam hồng.jpg",
+            "quality": {
+              "low": "assets/songs/y2mate.com - CHÀO EM CÔ GÁI LAM HỒNG  NGỌC SƠN  Nhạc Đỏ Trữ Tình Hay Nhất 2020.mp3"
+            },
+            "release_date": "date"
+          },
+          {
+            "id": 0,
+            "playlist_type": false,
+            "playlist": null,
+            "song_name": "Một Lần Dang Dở",
+            "album_name": "",
+            "singers": "H2K",
+            "image_source": "assets/images/một lần dang dở.jpg",
+            "quality": {
+              "low": "assets/songs/y2mate.com - Một Lần Dang Dở  H2K x KProxLo  Fi Ver  Audio Lyrics Video.mp3"
+              
+            },
+            "release_date": "date"
+          },
+          {
+            "id": 0,
+            "playlist_type": false,
+            "playlist": null,
+            "song_name": "Ai Khổ Vì Ai",
+            "album_name": "",
+            "singers": "H2K",
+            "image_source": "assets/images/ai khổ vì ai.jpg",
+            "quality": {
+              "low": "assets/songs/y2mate.com - Thuở Xưa Ngày Đầu Của Nhau Hai Đứa Vang Câu  Ai Khổ Vì Ai  Anh Khang  Audio Lyric Video.mp3"
+              
+            },
+            "release_date": "date"
+          },
+          {
+            "id": 0,
+            "playlist_type": false,
+            "playlist": null,
+            "song_name": "Phượng Buồn",
+            "album_name": "",
+            "singers": "H2K",
+            "image_source": "assets/images/phượng buồn.jpg",
+            "quality": {
+              "low": "assets/songs/y2mate.com - Phượng Buồn  H2K x Sli Petey by H2K  VN MIXCLOUD.mp3"
+              
+            },
+            "release_date": "date"
+          }
+    ]
+}
